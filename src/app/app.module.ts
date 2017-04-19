@@ -8,6 +8,9 @@ import { MyApp }     from './app.component';
 import { HomePage }  from '../pages/home/home';
 import { MagicBall } from '../providers/magic-ball';
 
+// Jasmine Intro
+// In this example, we have a test called "My Service" that contains a test for correctly adding numbers.
+
 @NgModule({
   declarations: [
     MyApp,
